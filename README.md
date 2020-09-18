@@ -23,4 +23,4 @@
  hits on url http://127.0.0.1:8000
  
  
-
+Then click on Resister and create an account...........
