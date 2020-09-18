@@ -35,7 +35,7 @@ class HomeController extends Controller
             
             $request->validate([
                 'id' => 'required|not_in:blank',
-                'item' =>'required|string|unique:items|max:255',
+                'item' =>'required|string|max:255',
             ]);
 
             $data = array();
